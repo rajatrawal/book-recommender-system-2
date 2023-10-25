@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+venv
+book-recommender-system.ipynb
+Ratings.csv
+Users.csv
+all_books.csv
+Books.csv
